@@ -1,2 +1,2 @@
 # CFPB-complaints-classification
-Fine-tuned BERT for multiclass classification
+Fine-tuned BERT LLM for multiclass classification
